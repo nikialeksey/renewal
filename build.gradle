@@ -1,0 +1,7 @@
+plugins {
+    id 'com.iwillfailyou' version '0.1.2'
+}
+
+repositories {
+    mavenCentral()
+}
